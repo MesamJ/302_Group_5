@@ -1,6 +1,6 @@
 baseURL = "https://festive-babbage-58bcbc.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Group 5"
 theme = "ananke"
 
 [build]
