@@ -1,9 +1,7 @@
 ---
-title: "Test Post"
-date: 2021-09-3T00:00:00-04:00
+title: "Ash Module 2 Personal Report"
+date: 2021-09-5T00:00:00-04:00
 draft: false
 ---
 
-This is a sample post. You can copy the text of this post to create new posts for your weekly personal and group reports. Pay close attention to the format of the text in this file—changing it too drastically will cause the post to not show up.
-Group 5
-This is just a test post -Ash
+For this personal learning report I was debating between 2 "I can" statements. I decided based on this weeks lecture, and the group work we have done that I would use "I can identify and define key concepts in (web) content management." Last weekends readings we focused on defining some foundational terms such as editorial process and the idea that content is by humans and purposed for human consumption. However in class we challenged that definition and came up with a couple examples of content that had an editorial process but were not neccessarily designed for humans. With these two things in mind, I believe I have a very good grasp of what content is and how to read in between the lines of the different definitions of content. Im eager to learn more deifinitions as well as challenge them along the way. There seems to be a gray area when it comes to what really is content and what isn't.
