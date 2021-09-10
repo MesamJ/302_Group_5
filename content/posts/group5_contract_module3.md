@@ -33,4 +33,3 @@ F:
 •no keyboards on the site 
 •poor grammar 
 •website is a mess and not user-friendly whatsoever
-Group 5
