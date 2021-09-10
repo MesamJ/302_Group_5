@@ -14,23 +14,23 @@ draft: false
 * Very intuitive UI/layout for website 
 * “Social media” links
 
-B:  
+# B:  
 * Less designs, colors, models, sizes, etc. of keyboards as expected 
 * Good grammar, good design  
 * Decent website layout 
 * Selling keyboard section excluded 
 
-C: 
+# C:
 * even less designs, colors, models, sizes, of keyboards 
 * ify grammar 
 * Below average design 
 
-D: 
+# D: 
 * very few designs and models of keyboards 
 * Bad UI/layout 
 * not cohesive  
 
-F: 
+# F: 
 * no keyboards on the site 
 * poor grammar 
 * website is a mess and not user-friendly whatsoever
