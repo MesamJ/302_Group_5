@@ -5,13 +5,13 @@ draft: false
 ---
 
 A:  
-•Everyone does their part/team effort and team participation 
-•build a coherent website that obviously displays the mission of the website and the 
-•smooth ability to sell keyboards have multiple keyboard designs, colors, models, sizes, etc. that are descriptive of the 
-•products Also have customizable keyboards option◦ability to contact the company  
-•“reviews” of satisfied costumers •Proper grammar, aesthetic pleasing design 
-•Very intuitive UI/layout for website 
-•“Social media” links
+* item •Everyone does their part/team effort and team participation 
+* item •build a coherent website that obviously displays the mission of the website and the 
+* item •smooth ability to sell keyboards have multiple keyboard designs, colors, models, sizes, etc. that are descriptive of the 
+* item •products Also have customizable keyboards option◦ability to contact the company  
+* item •“reviews” of satisfied costumers •Proper grammar, aesthetic pleasing design 
+* item •Very intuitive UI/layout for website 
+* item •“Social media” links
 
 B:  
 •Less designs, colors, models, sizes, etc. of keyboards as expected 
