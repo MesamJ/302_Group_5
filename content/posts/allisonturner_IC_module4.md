@@ -16,4 +16,5 @@ A D grade for me would be only contributing to one of the three pages I stated I
 # F:
 An F grade would be not accomplishing any of the pages I wanted to do, many grammar, spelling, and syntax errors in the final project, and no group communication. 
 
+# Summary:
 Overall, I am very confident in my group and our wide range of experience, dedication, and knowledge. Thus, I am excited to begin this project to learn more about content management systems through working with my peers. 
