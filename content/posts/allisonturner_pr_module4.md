@@ -1,0 +1,7 @@
+---
+title: "Allison Turner Personal Report"
+date: 2021-09-18T00:00:00-04:00
+draft: false
+---
+
+This week in class I have began to have a deeper understanding of the I can statement which involves using established workflows. During our Friday class period, the class had a group discussion about our community partners, what our goals are for each company, and how we are going to organize and accomplish these goals. Many different ideas were suggested, including divide and conquer techniques, divisions based on skills and experience, and everyone working on the same project together. Ultimately, the class decided to use the divide and conquer technique where the class will be divided into groups based on skill level and experience. Each group will have a specific tasks for one of our community partners. After they are finished with their assigned tasks, they may move on to the tasks for the other community partner's website. In addition, the class also agreed on have a team of student leaders that will act as project managers to ensure everyone is completing their tasks efficiently and properly. All of these decisions we made establish a workflow of how we are going to complete the tasks for our community partners on time. Overall, I believe our current established workflow will produce the best products for our community partners and also allow each student to learn different skills that they want to.   
