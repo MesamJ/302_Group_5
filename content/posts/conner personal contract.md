@@ -1,6 +1,6 @@
 ---
-title: "Group 5 Project Contract"
-date: 2021-09-10T00:00:00-04:00
+title: "Conner Personal Contrat"
+date: 2021-09-19T00:00:00-04:00
 draft: false
 ---
 
