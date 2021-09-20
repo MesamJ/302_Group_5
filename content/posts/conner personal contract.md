@@ -1,5 +1,5 @@
 ---
-title: "Conner Personal Contrat"
+title: "Conner Personal Contract"
 date: 2021-09-19T00:00:00-04:00
 draft: false
 ---
