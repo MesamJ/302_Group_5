@@ -5,7 +5,3 @@ draft: false
 ---
 
 The most important things you'll never need to know! 
-
----
-featured_image: '/Menus/PFPnew.jpg'
----
