@@ -42,5 +42,5 @@ HUGO_ENABLEGITINFO = "true"
   url = 'Menus/about/'
   weight = -110
 
-<img src="https://raw.githubusercontent.com/MesamJ/302_Group_5/master/content/Menus/PFPnew.jpg" width="200" />
+![][PFPnew.jpg]
 
