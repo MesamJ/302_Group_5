@@ -2,7 +2,6 @@ baseURL = "https://festive-babbage-58bcbc.netlify.app/"
 languageCode = "en-us"
 title = "Group 5"
 theme = "ananke"
-background_color_class = "bg-blue" 
 
 [build]
 publish = "public"
