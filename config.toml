@@ -3,10 +3,6 @@ languageCode = "en-us"
 title = "Group 5"
 theme = "ananke"
 
----
-featured_image: "https://raw.githubusercontent.com/MesamJ/302_Group_5/master/content/Menus/PFPnew.jpg"
----
-
 [build]
 publish = "public"
 command = "hugo --gc --minify"
