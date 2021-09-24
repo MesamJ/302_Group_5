@@ -36,7 +36,7 @@ HUGO_ENABLEGITINFO = "true"
 
 [menu]
 [[menu.main]]
-  identifier = 'about'
+  identifier = 'Menus/about'
   name = 'About Us'
   pre = "<i class='fa fa-heart'></i>"
   url = 'Menus/about/'
