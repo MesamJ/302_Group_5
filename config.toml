@@ -40,5 +40,5 @@ HUGO_ENABLEGITINFO = "true"
   name = 'About Us'
   pre = "<i class='fa fa-heart'></i>"
   url = 'Menus/about/'
-  weight = -110
+  weight = 1
 
