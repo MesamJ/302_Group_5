@@ -7,6 +7,8 @@ theme = "ananke"
 publish = "public"
 command = "hugo --gc --minify"
 
+![image](https://raw.githubusercontent.com/MesamJ/302_Group_5/master/content/Menus/PFPnew.jpg)
+
 [context.production.environment]
 HUGO_VERSION = "0.74.3"
 HUGO_ENV = "production"
@@ -42,4 +44,4 @@ HUGO_ENABLEGITINFO = "true"
   url = 'Menus/about/'
   weight = -110
 
-![image](https://raw.githubusercontent.com/MesamJ/302_Group_5/master/content/Menus/PFPnew.jpg)
+
