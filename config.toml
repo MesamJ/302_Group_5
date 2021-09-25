@@ -45,3 +45,5 @@ HUGO_ENABLEGITINFO = "true"
  [params]
   featured_image = "/images/PFPnew.jpg”
   
+
+  
