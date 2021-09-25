@@ -43,6 +43,6 @@ HUGO_ENABLEGITINFO = "true"
   weight = -110
   
 [params]
-featured_image = "/images/PFPnew.jpg”
+featured_image = "/themes/ananke/static/images/PFPnew.jpg”
 
   
