@@ -42,4 +42,5 @@ HUGO_ENABLEGITINFO = "true"
   url = 'Menus/about/'
   weight = -110
 
-featured_image = "/images/PFPnew.jpg”
+[params]
+featured_image = "/images/imagename.jpg”
