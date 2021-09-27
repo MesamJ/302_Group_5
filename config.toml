@@ -41,6 +41,3 @@ HUGO_ENABLEGITINFO = "true"
   pre = "<i class='fa fa-heart'></i>"
   url = 'Menus/about/'
   weight = -110
-  
- featured_image = "PFPnew.jpg”
-  
