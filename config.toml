@@ -5,7 +5,7 @@ theme = "ananke"
 
 [build]
 publish = "public"
-command = "hugo"
+command = "hugo --gc --minify"
 
 [context.production.environment]
 HUGO_VERSION = "0.74.3"
