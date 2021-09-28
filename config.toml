@@ -45,5 +45,4 @@ HUGO_ENABLEGITINFO = "true"
   
 [params]
 background_color_class = "bg-black"
-body_classes = "avenir yellow"
-body_classes = "serif yellow"
+body_classes = "avenir blue"
