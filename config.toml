@@ -45,5 +45,5 @@ HUGO_ENABLEGITINFO = "true"
 
 [Languages.en.params.banner]
 title = "Group 5"
-bg_image = "images/PFPnew.jpg"
+bg_image = "static/PFPnew.jpg"
 placeholder = "Search your post here"
