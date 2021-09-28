@@ -44,6 +44,7 @@ HUGO_ENABLEGITINFO = "true"
   
 [params]
 background_color_class = "bg-lightest-blue"
+text_color = "black"
 
 [params]
 recent_posts_number = 5
