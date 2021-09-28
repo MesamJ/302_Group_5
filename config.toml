@@ -42,5 +42,4 @@ HUGO_ENABLEGITINFO = "true"
   url = 'Menus/about'
   weight = -110
   
-<h1 align=center>Dot Hugo 
 
