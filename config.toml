@@ -42,7 +42,12 @@ HUGO_ENABLEGITINFO = "true"
   url = 'Menus/about'
   weight = -110
   
- ---
- menu: "Contact Us"
- ---
+[[menu.main]]
+  identifier = 'Menus'
+  name = 'Contact Us'
+  pre = "<i class='fa fa-heart'></i>"
+  url = 'Menus/Contact Us'
+  weight = -100
+  
+
 
