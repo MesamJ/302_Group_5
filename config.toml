@@ -1,7 +1,7 @@
 baseURL = "https://festive-babbage-58bcbc.netlify.app/"
 languageCode = "en-us"
 title = "Group 5"
-theme = "ananke"
+theme = "dot-hugo-master"
 
 [build]
 publish = "public"
