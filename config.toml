@@ -45,4 +45,5 @@ HUGO_ENABLEGITINFO = "true"
 [params]
 background_color_class = "bg-dark-blue"
 text_color = "bg-near-white"
-
+site_logo "hi"
+site_logo_color = "red"
