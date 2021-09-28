@@ -47,7 +47,7 @@ HUGO_ENABLEGITINFO = "true"
   name = 'Contact Us'
   pre = "<i class='fa fa-heart'></i>"
   url = 'Menus/Contact Us'
-  weight = -100
+  weight = 100
   
 
 
