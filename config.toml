@@ -42,8 +42,5 @@ HUGO_ENABLEGITINFO = "true"
   url = 'Menus/about'
   weight = -110
   
-
-[Languages.en.params.banner]
-title = "Group 5"
-bg_image = "static/PFPnew.jpg"
-placeholder = "Search your post here"
+[params]
+background_color_class = "bg-lightest-blue"
