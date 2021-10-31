@@ -1,5 +1,5 @@
 ---
-title: "Group 5 Project Contract"
+title: "Group 5 Revised Project Contract"
 date: 2021-10-31T00:00:00-04:00
 draft: false
 ---
