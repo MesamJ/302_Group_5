@@ -1,6 +1,6 @@
 ---
-title: "Allison Turner's Individual Contract"
-date: 2021-09-18T00:00:00-04:00
+title: "Allison Turner's Revised Individual Contract"
+date: 2021-10-31T00:00:00-04:00
 draft: false
 ---
 
