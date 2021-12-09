@@ -7,9 +7,10 @@ draft: false
 # A:  
 
 * Everyone does their part/team effort and team participation 
-* build a coherent website that obviously displays the mission of the website and the smooth ability to sell keyboards have 12 stock keyboard designs, colors, models, sizes, etc. that are descriptive of the products
+* build a coherent website that obviously displays the mission of the website
+* the smooth ability to sell keyboards have 12 stock keyboard designs, colors, models, sizes, etc. that are descriptive of the products
 * ability to contact the company  
-* “reviews” of satisfied costumers 
+* “reviews” of satisfied customers 
 * Proper grammar, aesthetic pleasing design 
 * Very intuitive UI/layout for website 
 
